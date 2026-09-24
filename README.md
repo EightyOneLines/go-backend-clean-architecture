@@ -2,7 +2,6 @@
 
 A Go (Golang) RESTful Backend API service built using Clean Architecture principles with Gin, MongoDB, JWT Authentication Middleware, Testify/Mockery unit testing, and Docker support.
 
-![Go Backend Clean Architecture](assets/go-backend-clean-architecture.png)
 
 ## Overview
 
